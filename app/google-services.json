@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346283658022",
+    "firebase_url": "https://multipleloginfirebase.firebaseio.com",
+    "project_id": "multipleloginfirebase",
+    "storage_bucket": "multipleloginfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346283658022:android:4f60d472744de90e",
+        "android_client_info": {
+          "package_name": "com.example.uchiha.multiplelogin_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346283658022-vcmrgieqjtbf72oss8tg1efcg1h3oqiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uchiha.multiplelogin_firebase",
+            "certificate_hash": "7fadd4daafc8d33bffcc0e1fe3206da31a4c9609"
+          }
+        },
+        {
+          "client_id": "346283658022-4tc2rlbd1etrd0rrjtm14cgcjitvdpha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvNx9_4eW7QlOO1r5HptPEjog_kXOrUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346283658022-4tc2rlbd1etrd0rrjtm14cgcjitvdpha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
